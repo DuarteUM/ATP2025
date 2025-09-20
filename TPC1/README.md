@@ -5,3 +5,12 @@ Resolver o exercício 10 do jogo Maze no site Blockly Games, https://blockly.gam
 Usar o site Blocly Games no exercício 10 do jogo Turtle para programar o desenho de um comboio. ![Imagem WhatsApp 2025-09-18 às 15 50 53_00738b03](https://github.com/user-attachments/assets/3fdbc416-c68b-4b5f-9fed-93cb25f2cef3)
 Lista de Resultados:
 <img width="1902" height="1082" alt="Tpc1" src="https://github.com/user-attachments/assets/878ef836-8b11-4611-a59d-7e904119a25b" />
+Imagens Código do Comboio:
+<img width="1902" height="1065" alt="1" src="https://github.com/user-attachments/assets/b45c9396-2e6c-4b81-b8ce-23b5665681ca" />
+<img width="1915" height="1090" alt="2" src="https://github.com/user-attachments/assets/05bbe61f-3e0c-4392-957d-135370e9fa58" />
+<img width="1897" height="1086" alt="3" src="https://github.com/user-attachments/assets/540bd1e9-ef3b-408b-917a-b210064fcdf5" />
+<img width="1907" height="1080" alt="4" src="https://github.com/user-attachments/assets/7c433132-d500-4421-9e5f-c81efa0c0391" />
+<img width="1906" height="1087" alt="5" src="https://github.com/user-attachments/assets/69948cd8-178a-4e95-9448-107a14e94977" />
+<img width="1918" height="1086" alt="6" src="https://github.com/user-attachments/assets/85475a14-3be0-4c65-8e9c-e333b193128a" />
+<img width="1915" height="1071" alt="7" src="https://github.com/user-attachments/assets/83b61276-ea5c-4061-946c-182cec66dc63" />
+https://github.com/user-attachments/assets/e0e82ceb-c8a0-40ae-9482-9f130eeb9b4c
