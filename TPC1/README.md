@@ -7,11 +7,5 @@ Lista de Resultados:
 <img width="1902" height="1082" alt="Tpc1" src="https://github.com/user-attachments/assets/878ef836-8b11-4611-a59d-7e904119a25b" />
 <img width="1898" height="1067" alt="1 1" src="https://github.com/user-attachments/assets/efa05f02-8d7e-4c48-9417-05b84eb8cc14" />
 Código do Comboio:
-<img width="1902" height="1065" alt="1" src="https://github.com/user-attachments/assets/b45c9396-2e6c-4b81-b8ce-23b5665681ca" />
-<img width="1915" height="1090" alt="2" src="https://github.com/user-attachments/assets/05bbe61f-3e0c-4392-957d-135370e9fa58" />
-<img width="1897" height="1086" alt="3" src="https://github.com/user-attachments/assets/540bd1e9-ef3b-408b-917a-b210064fcdf5" />
-<img width="1907" height="1080" alt="4" src="https://github.com/user-attachments/assets/7c433132-d500-4421-9e5f-c81efa0c0391" />
-<img width="1906" height="1087" alt="5" src="https://github.com/user-attachments/assets/69948cd8-178a-4e95-9448-107a14e94977" />
-<img width="1918" height="1086" alt="6" src="https://github.com/user-attachments/assets/85475a14-3be0-4c65-8e9c-e333b193128a" />
-<img width="1896" height="1078" alt="7" src="https://github.com/user-attachments/assets/d111ffcc-c130-43e3-92c3-aa73a7e2bccd" />
-https://github.com/user-attachments/assets/933fb59e-c254-4d5e-b927-ca4b10ad2c3a
+<img width="1908" height="1076" alt="Comboio1" src="https://github.com/user-attachments/assets/96e9ce9f-011e-4c41-92e0-4d0f73d1b905" />
+<img width="1906" height="1075" alt="2 Comboio" src="https://github.com/user-attachments/assets/ff2ded1c-6982-4feb-87ce-df1b021f235e" />
