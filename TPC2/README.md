@@ -7,8 +7,6 @@ Jogo dos Fósforos:
 [Jogo21final.py](https://github.com/user-attachments/files/22578481/Jogo21final.py)
 
 Jogo 2:
-
-
-
-
+<img width="1897" height="1132" alt="advinha1" src="https://github.com/user-attachments/assets/216ff50d-d87f-4a8d-bb3c-2b53e5900846" />
+<img width="1907" height="1125" alt="advinha2" src="https://github.com/user-attachments/assets/5e7e920c-7590-4b72-9f8c-16c8e89a6855" />
 
