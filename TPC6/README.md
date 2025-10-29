@@ -1,4 +1,4 @@
-[Metereologia.py](https://github.com/user-attachments/files/23219131/Metereologia.py)TPC1 Duarte Matos; A110102;
+TPC1 Duarte Matos; A110102;
 <img width="2316" height="3088" alt="image" src="https://github.com/user-attachments/assets/2f9ddd5a-8e9b-4b34-8b91-5d1ce1dd67fd" />
 Cria uma aplicação Python que permita ao utilizador usar todas as funcionalidades como: 
  1- Temperatura media 
@@ -50,7 +50,7 @@ while i != 0:
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-    [Metereologia.py](https://github.com/user-attachments/files/23219159/Metereologia.py)
+  [Metereologia.py](https://github.com/user-attachments/files/23219214/Metereologia.py)
 import matplotlib.pyplot as plt
 
 def medias(tabMeteo):
